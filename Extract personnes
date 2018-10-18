@@ -1,4 +1,4 @@
-# Sintegra_projects
+#This code is for extract and create a dataset of personnes from webcam
 import cv2
 import sys
 
